@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Feb 2023 02:27:59 at https://www.lendapawinc.com/donate +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.lendapawinc.com/donate
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://www.lendapawinc.com/donate -O1 "C:\Users\HP\Desktop\amin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.lendapawinc.com/donate )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:28:29	Error: 	"Not Found" (404) at link https://www.lendapawinc.com/decodeURIComponent(e (from https://www.lendapawinc.com/donate)
+02:28:29	Error: 	"Not Found" (404) at link https://www.lendapawinc.com/feed.xml (from https://www.lendapawinc.com/donate)
+02:29:06	Error: 	"Not Found" (404) at link https://www.lendapawinc.com/service-page/sitemap.xml (from https://www.lendapawinc.com/service-page/meet-greets)
+02:29:06	Error: 	"Not Found" (404) at link https://www.lendapawinc.com/service-page/feed.xml (from https://www.lendapawinc.com/service-page/meet-greets)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 61 links scanned, 56 files written (11237371 bytes overall) [3146252 bytes received at 47670 bytes/sec], 10579377 bytes transferred using HTTP compression in 34 files, ratio 22%
+(4 errors, 0 warnings, 0 messages)
